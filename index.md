@@ -1,5 +1,5 @@
 # Matthijs Alderliefste
-I would like to help you realise your dreams. Software, videos and events I can create for you.
+I would like to help you realise your dreams. Software, videos and events I can create for you. I have done the work in the trences myself. Now I lead others to get it done.
 
 ## Web and mobile software development
 ### Example projects
