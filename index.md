@@ -14,13 +14,13 @@ Would you like me to create something for you? Contact me
 ## Media production
 ### Example videos
 - [Qualitea Peachy Bootea](https://www.instagram.com/reel/CcTazOdgtVY/)
-- [Videoclip](https://www.youtube.com/watch?v=DlORO7Z-GbU)
+- [Videoclip "La Veleta"](https://www.youtube.com/watch?v=DlORO7Z-GbU)
 
 Would you like me to create something for you? Contact me
 
 ## Events
 ### Example gatherings
-- @openstage.amsterdam
-- domeinenfeestje.nl
+- [@openstage.amsterdam](https://www.instagram.com/openstage.amsterdam/)
+- [domeinenfeestje.nl](https://domeinenfeestje.nl)
 
 Would you like me to create something for you? Contact me
