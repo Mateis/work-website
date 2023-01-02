@@ -5,16 +5,16 @@ I've done the handwork many times, and will ask others to help me build what you
 
 ## Web and mobile software product development
 ### Example software
-- rentbird.nl
-- nationaalarchiefinkleur.nl (broken)
-- internal tools for Netherlands Armed Forces
+- [rentbird.nl](https://www.rentbird.nl)
+- [nationaalarchiefinkleur.nl](nationaalarchiefinkleur.nl) (broken)
+- internal tools for [Netherlands Armed Forces](https://www.defensie.nl/)
 
 Would you like me to create something for you? Contact me
 
 ## Media production
 ### Example videos
-- thee
-- videoclip
+- [Qualitea Peachy Bootea](https://www.instagram.com/reel/CcTazOdgtVY/)
+- [Videoclip](https://www.youtube.com/watch?v=DlORO7Z-GbU)
 
 Would you like me to create something for you? Contact me
 
