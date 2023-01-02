@@ -4,7 +4,7 @@ I would like to help you realise your dreams. [Software](#web-and-mobile-softwar
 I've done the handwork many times, and will ask others to help me build what you're after. 
 
 ## Web and mobile software product development
-### Example projects
+### Example software
 - rentbird.nl
 - nationaalarchiefinkleur.nl (broken)
 - internal tools for Netherlands Armed Forces
@@ -12,14 +12,14 @@ I've done the handwork many times, and will ask others to help me build what you
 Would you like me to create something for you? Contact me
 
 ## Media production
-### Example projects
+### Example videos
 - thee
 - videoclip
 
 Would you like me to create something for you? Contact me
 
 ## Events
-### Example projects
+### Example gatherings
 - @openstage.amsterdam
 - domeinenfeestje.nl
 
