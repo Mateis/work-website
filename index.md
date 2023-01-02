@@ -1,7 +1,7 @@
 # Matthijs Alderliefste
 I would like to help you realise your dreams. Software, videos and events I can create for you. 
 
-## Web and mobile software development
+## Web and mobile software product development
 ### Example projects
 - rentbird.nl
 - nationaalarchiefinkleur.nl (broken)
@@ -10,15 +10,13 @@ I would like to help you realise your dreams. Software, videos and events I can 
 Would you like me to create something for you? Contact me
 
 ## Media production
-### Projects
+### Example projects
 - thee
 - videoclip
 
 Would you like me to create something for you? Contact me
 
 ## Events
+### Example projects
 - @openstage.amsterdam
 - domeinenfeestje.nl
-
-## Product development
-- @qualiteathee
