@@ -1,5 +1,7 @@
 # Matthijs Alderliefste
-I would like to help you realise your dreams. [Software](#web-and-mobile-software-product-development), [media](#media-production) and [events](#events) I can create for you. I'll done the handwork, and will ask others to help me build what you're after. 
+I would like to help you realise your dreams. [Software](#web-and-mobile-software-product-development), [media](#media-production) and [events](#events) I can create for you.
+
+I've done the handwork, and will ask others to help me build what you're after. 
 
 ## Web and mobile software product development
 ### Example projects
