@@ -1,2 +1,23 @@
-# work-website
-A website where I communicate the productive results (work) I'm available for
+# Matthijs Alderliefste
+I would like to help you realise your dreams. Software and videos I can create for you.
+
+## Web and mobile software development
+### Example projects
+- rentbird.nl
+- nationaalarchiefinkleur.nl (broken)
+- internal tools for Netherlands Armed Forces
+
+Would you like me to create something for you? Contact me
+
+## Media production
+### Projects
+- thee
+- videoclip
+
+Would you like me to create something for you? Contact me
+
+## Events
+- @openstage.amsterdam
+
+## Product development
+- @qualiteathee
