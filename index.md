@@ -20,3 +20,5 @@ Would you like me to create something for you? Contact me
 ### Example projects
 - @openstage.amsterdam
 - domeinenfeestje.nl
+
+Would you like me to create something for you? Contact me
