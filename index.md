@@ -19,8 +19,11 @@ Would you like me to create something for you? [reach out to me via WhatsApp](ht
 
 ## Media production
 ### Example videos
+Qualitea Peachy Bootea
 [![Qualitea Peachy Bootea](./images/qualitea.png)](https://www.instagram.com/reel/CcTazOdgtVY/)
-[![Videoclip "La Veleta"](./images/hqdefault.jpg)](https://www.youtube.com/watch?v=DlORO7Z-GbU)
+
+Music video "La Veleta"
+[![Music video "La Veleta"](./images/hqdefault.jpg)](https://www.youtube.com/watch?v=DlORO7Z-GbU)
 
 Would you like me to create something for you? [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
 
