@@ -3,9 +3,7 @@
 
 Hey, you must be drinking tea or coffee from my mug. Enjoy it!
 
-I would like to help you realise your dreams. [Software](#web-and-mobile-software-product-development), [media](#media-production) and [events](#events) we could create together.
-
-I've done the handwork many times, and will ask others to help me build what you're after. 
+I'm sure you have dreams. Maybe you call them ambitions, goals or passions. Let's make them happen. I create [Software](#web-and-mobile-software-product-development), [media](#media-production) and [events](#events). Are we a fit? Then I will build the team and get it done.
 
 If you'd like to meet up to share a coffee or tea some time, do [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
 
@@ -14,7 +12,7 @@ If you'd like to meet up to share a coffee or tea some time, do [reach out to me
 - [rentbird.nl](https://www.rentbird.nl)
 - internal tools for [Netherlands Armed Forces](https://www.defensie.nl/)
 
-Would you like me to create something for you? [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
+Would you like me to create something for you? [Reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
 
 ## Media production
 ### Example videos
@@ -26,11 +24,11 @@ Music video "La Veleta"
 
 [![Music video "La Veleta"](./images/hqdefault.jpg)](https://www.youtube.com/watch?v=DlORO7Z-GbU)
 
-Would you like me to create something for you? [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
+Would you like me to create something for you? [Reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
 
 ## Events
 ### Example gatherings
 - [Open Stage Amsterdam](https://www.instagram.com/openstage.amsterdam/)
 - [domeinenfeestje.nl](https://domeinenfeestje.nl)
 
-Would you like me to create something for you? [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
+Would you like me to create something for you? [Reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
