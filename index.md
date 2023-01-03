@@ -5,7 +5,7 @@ I would like to help you realise your dreams. [Software](#web-and-mobile-softwar
 
 I've done the handwork many times, and will ask others to help me build what you're after. 
 
-If you'd like to meet up to share a coffee or tea some time, do [reach out to me via WhatsApp!](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
+If you'd like to meet up to share a coffee or tea some time, do [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
 
 ## Web and mobile software product development
 ### Example software
