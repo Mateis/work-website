@@ -12,7 +12,6 @@ If you'd like to meet up to share a coffee or tea some time, do [reach out to me
 ## Web and mobile software product development
 ### Example software
 - [rentbird.nl](https://www.rentbird.nl)
-- [nationaalarchiefinkleur.nl](nationaalarchiefinkleur.nl) (NOTE TO SELF: FIX currently broken)
 - internal tools for [Netherlands Armed Forces](https://www.defensie.nl/)
 
 Would you like me to create something for you? [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
@@ -31,7 +30,7 @@ Would you like me to create something for you? [reach out to me via WhatsApp](ht
 
 ## Events
 ### Example gatherings
-- [@openstage.amsterdam](https://www.instagram.com/openstage.amsterdam/)
+- [Open Stage Amsterdam](https://www.instagram.com/openstage.amsterdam/)
 - [domeinenfeestje.nl](https://domeinenfeestje.nl)
 
 Would you like me to create something for you? [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
