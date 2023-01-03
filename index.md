@@ -3,7 +3,9 @@
 
 Hey, you must be drinking tea or coffee from my mug. Enjoy it!
 
-I'm sure you have dreams. Maybe you call them ambitions, goals or passions. Let's make them happen. I create [Software](#web-and-mobile-software-product-development), [media](#media-production) and [events](#events). Are we a fit? Then I will build the team and get it done.
+I'm sure you have dreams. Maybe you call them ambitions, goals or passions. Let's make them happen. 
+
+I create [Software](#web-and-mobile-software-product-development), [media](#media-production) and [events](#events). Are we a fit? Then I will build the team and get it done.
 
 If you'd like to meet up to share a coffee or tea some time, do [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
 
