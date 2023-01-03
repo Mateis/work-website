@@ -3,7 +3,7 @@
 
 Hey, you must be drinking tea or coffee from my mug. Enjoy it!
 
-I'm sure you have dreams. Maybe you call them ambitions, goals or objectives. Let's make them happen. 
+I'm sure you have dreams. Maybe you call them ambitions, objectives or goals. Let's make them happen. 
 
 I create [Software](#web-and-mobile-software-product-development), [media](#media-production) and [events](#events). Are we a fit? Then we build the team and get it done.
 
