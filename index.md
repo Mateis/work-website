@@ -1,5 +1,6 @@
 # Matthijs Alderliefste
 <img alt="Matthijs Alderliefste" src="./images/IMG_20221027_120045132_HDR(3).jpg" width="50%" style="float: left; padding-right: 1em;" />
+<div style="float: right">
 Hey, you must be drinking tea or coffee from my mug. Enjoy it!
 
 I would like to help you realise your dreams. [Software](#web-and-mobile-software-product-development), [media](#media-production) and [events](#events) we could create together.
@@ -7,8 +8,10 @@ I would like to help you realise your dreams. [Software](#web-and-mobile-softwar
 I've done the handwork many times, and will ask others to help me build what you're after. 
 
 If you'd like to meet up to share a coffee or tea some time, do [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
-
-<div style="clear: both;">
+</div>
+  
+<div style="clear: both">
+  
 ## Web and mobile software product development
 ### Example software
 - [rentbird.nl](https://www.rentbird.nl)
@@ -30,4 +33,5 @@ Would you like me to create something for you? [reach out to me via WhatsApp](ht
 - [domeinenfeestje.nl](https://domeinenfeestje.nl)
 
 Would you like me to create something for you? [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
+  
 </div>
