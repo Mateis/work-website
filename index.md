@@ -1,5 +1,5 @@
 # Matthijs Alderliefste
-![Matthijs Alderliefste](./images/IMG_20221027_120045132_HDR(3).jpg)
+<img alt="Matthijs Alderliefste" src="./images/IMG_20221027_120045132_HDR(3).jpg" width="50%" max-height="500px" style="float: left" />
 Hey, you must be drinking tea or coffee from my mug. Enjoy it!
 
 I would like to help you realise your dreams. [Software](#web-and-mobile-software-product-development), [media](#media-production) and [events](#events) we could create together.
