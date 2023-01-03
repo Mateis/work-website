@@ -29,7 +29,7 @@ Music video "La Veleta"
 Would you like me to create something for you? [Reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
 
 ## Events
-### Example gatherings
+### Example events
 - [Open Stage Amsterdam](https://www.instagram.com/openstage.amsterdam/)
 - [domeinenfeestje.nl](https://domeinenfeestje.nl)
 
