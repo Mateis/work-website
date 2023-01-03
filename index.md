@@ -10,7 +10,7 @@ I create [software](#web-and-mobile-software-product-development), [media](#medi
 If you'd like to meet up to share a coffee or tea some time, do [reach out to me via WhatsApp](https://chat.whatsapp.com/HJY7pbwJonwJSzgeyziX7M)!
 
 ## Software product development
-Web and mobile.
+Web and native mobile.
 
 ### Example software
 - [rentbird.nl](https://www.rentbird.nl)
